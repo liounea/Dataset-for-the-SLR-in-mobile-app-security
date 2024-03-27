@@ -1,4 +1,4 @@
-# Dataset-for-the-SLR-in-mobile-app-security
+# Dataset for the SLR on mobile app security in developing countries
 
 In our Systematic Literature Review (SLR), we systematically conducted searches in various repositories, utilizing a search string based on titles and abstracts of publications. 
 The results obtained after this step are presented in the "**Initial publications collected**" folder.
